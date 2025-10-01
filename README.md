@@ -1,1 +1,2 @@
 # Time-series-forcasting-for-Bajaj-finance
+This project demonstrates time series forecasting of Bajaj Finance stock prices using EViews. The analysis covers data preparation, interpolation of missing values, generation of log returns, stationarity testing (ADF, PP, KPSS), ACF & PACF analysis, ARIMA model selection based on AIC/BIC, and residual diagnostics. The final output includes a 10-day forecast with confidence intervals, supported by plots and screenshots
